@@ -3,7 +3,6 @@
     [
       "@babel/env",
       {
-        "targets": ["> 0.3%", "not ie > 0"],
         "debug": true
       }
     ]
